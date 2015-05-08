@@ -12,7 +12,7 @@ setup(
     package_data = {
         '': ['COPYING.txt', 'LICENSE', 'README.md', 'setup.cfg']
     },
-    version = '0.0.1',
+    version = '0.0.2',
     description = 'Provides a http helper app to allow Scratch 2 to control a LEGO NXT brick',
     author='Chris Proctor',
     author_email='chris.proctor@gmail.com',
