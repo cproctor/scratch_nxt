@@ -17,7 +17,7 @@ Installation & Setup
    When you are asked to enter your password, you will not see the letters
    you type appear on the screen. This is normal.
 
-        NATIVE_ARCH_ACTUAL=x86_64
+        export NATIVE_ARCH_ACTUAL=x86_64
         sudo easy_install pip
         sudo pip install scratch_nxt_extension
 
